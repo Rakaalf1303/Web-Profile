@@ -1,0 +1,17 @@
+.img {
+    display: flex;
+    justify-content: center;
+    padding: 2em;
+}
+
+.h1 {
+    text-align: center;
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+.h1:hover {
+    transition: .6s;
+    color: blue;
+   transform: rotate(3deg);
+}
